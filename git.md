@@ -1,8 +1,8 @@
 # git 操作记录
 
-### git add + file
+### git add/rm + file
 
-告诉git要追踪的文件
+告诉git要新追踪(或删除)的文件
 
 ### git commit -m "message"
 
